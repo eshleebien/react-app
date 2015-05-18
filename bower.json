@@ -1,0 +1,20 @@
+{
+  "name": "esh.ph",
+  "version": "0.1",
+  "authors": [
+    "Eshlee Romero <esh@any.tv>"
+  ],
+  "description": "A personal page made in react js",
+  "license": "MIT",
+  "homepage": "http://esh.ph",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
